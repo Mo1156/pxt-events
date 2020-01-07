@@ -12,5 +12,8 @@
     "testFiles": [
         "test.ts"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "blocksprj",
+    "supportedTargets": [
+        "arcade"
+    ]
 }
